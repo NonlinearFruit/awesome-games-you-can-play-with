@@ -1,4 +1,5 @@
-# Awesome Chess Board Games
+# Awesome Chess Board Games [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 An awesome list of games that can be played on a chess board. Ideally these are games that can be played with common household items.
 
  - **[Baroque Chess](https://www.wikiwand.com/en/Baroque_chess)** 
