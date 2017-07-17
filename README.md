@@ -2,6 +2,8 @@
 
 An awesome list of games that can be played on a chess board. Ideally these are games that can be played with common household items.
 
+ - **[0-1](https://boardgamegeek.com/thread/799045/complete-rules-link-pdf-and-diagrams)**
+ - **[32 Dice](https://boardgamegeek.com/thread/979502/how-play)**
  - **[Baroque Chess](https://www.wikiwand.com/en/Baroque_chess)** 
  - **[Breakthrough](https://www.wikiwand.com/en/Breakthrough_(board_game))**
  - **[Chess](https://www.wikiwand.com/en/Chess)**
