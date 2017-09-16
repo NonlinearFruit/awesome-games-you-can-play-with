@@ -10,6 +10,6 @@ An awesome list of games that can be played on a chess board. Ideally these are 
  - **[Checkers](https://www.wikiwand.com/en/Draughts)**
  - **[Line of Action](https://www.wikiwand.com/en/Lines_of_Action)**
  - **[Martian Chess](https://www.wikiwand.com/en/Martian_chess)**
- - **[Order and Chaos](https://boardgamegeek.com/boardgame/147859/order-and-chaos)
+ - **[Order and Chaos](https://boardgamegeek.com/boardgame/147859/order-and-chaos)**
  - **[Othello](https://www.wikiwand.com/en/Reversi)**
  - **[Robo Battle Pigs](http://cox-tv.com/games/mygames/robobattlepigs.html)**
