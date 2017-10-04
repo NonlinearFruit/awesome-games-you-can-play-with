@@ -8,6 +8,7 @@ An awesome list of games that can be played on a chess board. Ideally these are 
  - **[Breakthrough](https://www.wikiwand.com/en/Breakthrough_(board_game))**
  - **[Chess](https://www.wikiwand.com/en/Chess)**
  - **[Checkers](https://www.wikiwand.com/en/Draughts)**
+ - **[Dominox](https://boardgamegeek.com/boardgame/21349/dominox)**
  - **[Line of Action](https://www.wikiwand.com/en/Lines_of_Action)**
  - **[Martian Chess](https://www.wikiwand.com/en/Martian_chess)**
  - **[Order and Chaos](https://boardgamegeek.com/boardgame/147859/order-and-chaos)**
