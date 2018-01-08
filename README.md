@@ -9,6 +9,7 @@ An awesome list of games that can be played on a chess board. Ideally these are 
  - **[Chess](https://www.wikiwand.com/en/Chess)**
  - **[Checkers](https://www.wikiwand.com/en/Draughts)**
  - **[Dominox](https://boardgamegeek.com/boardgame/21349/dominox)**
+ - **[Fox and Hounds](https://boardgamegeek.com/boardgame/148180/fox-and-hounds)**
  - **[Hip](https://boardgamegeek.com/geeklist/122562?commentid=2742224#comment2742224)**
  - **[Konane](https://www.wikiwand.com/en/Konane)**
  - **[Line of Action](https://www.wikiwand.com/en/Lines_of_Action)**
