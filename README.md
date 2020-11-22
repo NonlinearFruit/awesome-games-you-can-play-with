@@ -10,7 +10,7 @@ These are awesome games you can play with various common items
 | [Letter Tiles](#letter-tiles)    |
 | [Marbles](#marbles)              |
 | [Nothing](#nothing)              |
-| [Playing Cards](#(playing-cards) |
+| [Playing Cards](#playing-cards)  |
 
 ## Ball
 
