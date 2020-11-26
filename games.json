@@ -1,0 +1,63 @@
+[
+  {
+    "Category": "Chess Board",
+    "Games": [
+      {"Name": "0-1", "BggId": 114307},
+      {"Name": "32 Dice", "BggId": 113360},
+      {"Name": "Baroque Chess", "BggId": 25343},
+      {"Name": "Checkers", "BggId": 2083},
+      {"Name": "Chess", "BggId": 171},
+      {"Name": "Dominox", "BggId": 21349},
+      {"Name": "Fox and Hounds", "BggId": 148180},
+      {"Name": "Hip", "BggId": null},
+      {"Name": "Konane", "BggId": 8122},
+      {"Name": "Lines of Action", "BggId": 3406},
+      {"Name": "Martian Chess", "BggId": 19803},
+      {"Name": "Order and Chaos", "BggId": 147859},
+      {"Name": "Othello", "BggId": 19803},
+      {"Name": "Robo Battle Pigs", "BggId": 3704}
+    ]
+  },
+  {
+    "Category": "Dominoes",
+    "Games": [
+      {"Name": "42", "BggId": 12131},
+      {"Name": "Can't Stop", "BggId": null, "Url": "https://boardgamegeek.com/geeklist/55665/item/4489109#item4489109", "Players": "2-4", "Playtime": "30 minutes", "Tags": ""},
+      {"Name": "Chicken Foot", "BggId": 21572},
+      {"Name": "Cross Currents", "BggId": 21567},
+      {"Name": "Euronimoes", "BggId": 90272},
+      {"Name": "Five-up", "BggId": 47994},
+      {"Name": "Mexican Train", "BggId": 11634}
+    ]
+  },
+  {
+    "Category": "Letter Tiles",
+    "Games": [
+      {"Name": "Anagrams", "BggId": 3359},
+      {"Name": "Appleletters", "BggId": 58253},
+      {"Name": "Bali", "BggId": 2553},
+      {"Name": "Bananagrams", "BggId": 27225},
+      {"Name": "Bingo", "BggId": 7316},
+      {"Name": "Boggle", "BggId": 1293},
+      {"Name": "Dizzy Spell", "BggId": 11852},
+      {"Name": "Last Word", "BggId": 1960},
+      {"Name": "Speed Scrabble", "BggId": null}
+    ]
+  },
+  {
+    "Category": "Playing Cards",
+    "Games": [
+      {"Name": "Bridge", "BggId": 2181},
+      {"Name": "Canasta", "BggId": 17104},
+      {"Name": "Cribbage", "BggId": 2398},
+      {"Name": "Eleusis", "BggId": 5217},
+      {"Name": "Euhre", "BggId": 6901},
+      {"Name": "Go Fish", "BggId": 7682},
+      {"Name": "Hand and Foot", "BggId": 7475},
+      {"Name": "Hearts", "BggId": 6887},
+      {"Name": "Mao", "BggId": 4213},
+      {"Name": "Old Maid", "BggId": 10799},
+      {"Name": "Uno", "BggId": 2223}
+    ]
+  }
+]
