@@ -2,65 +2,71 @@
 
 These are awesome games you can play with various common items
 
-| Item                             |
-|---                               |
-| [Ball](#ball)                    |
-| [Chess Board](#chess-board)      |
-| [Dominoes](#dominoes)            |
-| [Letter Tiles](#letter-tiles)    |
-| [Marbles](#marbles)              |
-| [Nothing](#nothing)              |
-| [Playing Cards](#playing-cards)  |
-
-## Ball
-
-TODO
+| Item |
+|------|
+| [Chess Board](#chess_board) |
+| [Dominoes](#dominoes) |
+| [Letter Tiles](#letter_tiles) |
+| [Playing Cards](#playing_cards) |
 
 ## Chess Board
-An awesome list of games that can be played on a chess board. Ideally these are games that can be played with common household items.
 
- - **[0-1](https://boardgamegeek.com/thread/799045/complete-rules-link-pdf-and-diagrams)**
- - **[32 Dice](https://boardgamegeek.com/thread/979502/how-play)**
- - **[Baroque Chess](https://www.wikiwand.com/en/Baroque_chess)** 
- - **[Breakthrough](https://www.wikiwand.com/en/Breakthrough_(board_game))**
- - **[Chess](https://www.wikiwand.com/en/Chess)**
- - **[Checkers](https://www.wikiwand.com/en/Draughts)**
- - **[Dominox](https://boardgamegeek.com/boardgame/21349/dominox)**
- - **[Fox and Hounds](https://boardgamegeek.com/boardgame/148180/fox-and-hounds)**
- - **[Hip](https://boardgamegeek.com/geeklist/122562?commentid=2742224#comment2742224)**
- - **[Konane](https://www.wikiwand.com/en/Konane)**
- - **[Line of Action](https://www.wikiwand.com/en/Lines_of_Action)**
- - **[Martian Chess](https://www.wikiwand.com/en/Martian_chess)**
- - **[Order and Chaos](https://boardgamegeek.com/boardgame/147859/order-and-chaos)**
- - **[Othello](https://www.wikiwand.com/en/Reversi)**
- - **[Robo Battle Pigs](http://cox-tv.com/games/mygames/robobattlepigs.html)**
+| Game | # of Players | Playtime |
+|------|--------------|----------|
+| [0-1](https://www.boardgamegeek.com/boardgame/114307) | 2 | 30 |
+| [32 Dice](https://www.boardgamegeek.com/boardgame/113360) | 2 | 30 |
+| [Baroque Chess](https://www.boardgamegeek.com/boardgame/25343) | 2 | 30 |
+| [Checkers](https://www.boardgamegeek.com/boardgame/2083) | 2 | 30 |
+| [Chess](https://www.boardgamegeek.com/boardgame/171) | 2 | 60 |
+| [Dominox](https://www.boardgamegeek.com/boardgame/21349) | 2 | 30 |
+| [Fox and Hounds](https://www.boardgamegeek.com/boardgame/148180) | 2 | 5 |
+| [Hip](https://www.boardgamegeek.com/boardgame/null) |  |  |
+| [Konane](https://www.boardgamegeek.com/boardgame/8122) | 2 | 20 |
+| [Lines of Action](https://www.boardgamegeek.com/boardgame/3406) | 2 | 20 |
+| [Martian Chess](https://www.boardgamegeek.com/boardgame/19803) | 2 - 4 | 20 |
+| [Order and Chaos](https://www.boardgamegeek.com/boardgame/147859) | 2 | 5 |
+| [Othello](https://www.boardgamegeek.com/boardgame/19803) | 2 - 4 | 20 |
+| [Robo Battle Pigs](https://www.boardgamegeek.com/boardgame/3704) | 2 - 8 | 20 |
 
 ## Dominoes
 
-TODO
+| Game | # of Players | Playtime |
+|------|--------------|----------|
+| [42](https://www.boardgamegeek.com/boardgame/12131) | 4 | 30 |
+| [Can't Stop](https://www.boardgamegeek.com/boardgame/null) |  |  |
+| [Chicken Foot](https://www.boardgamegeek.com/boardgame/21572) | 1 - 8 | 45 |
+| [Cross Currents](https://www.boardgamegeek.com/boardgame/21567) | 2 | 45 |
+| [Euronimoes](https://www.boardgamegeek.com/boardgame/90272) | 2 - 4 | 20 - 40 |
+| [Five-up](https://www.boardgamegeek.com/boardgame/47994) | 2 - 4 | 30 |
+| [Mexican Train](https://www.boardgamegeek.com/boardgame/11634) | 1 - 8 | 20 |
 
 ## Letter Tiles
 
- - **Boggle**
- - **Dizzy Spell**
- - **Bananagrams**
- - **Speed Scrabble**
- - **Bali**
- - **Appletters**
- - **Anagrams**
- - **Bingo**
- - **Last Word**
-
-source: https://boardgamegeek.com/geeklist/254992/other-games-can-be-played-bananagrams
-
-## Marbles
-
-TODO
-
-## Nothing
-
-TODO
+| Game | # of Players | Playtime |
+|------|--------------|----------|
+| [Anagrams](https://www.boardgamegeek.com/boardgame/3359) | 2 - 6 | 45 |
+| [Appleletters](https://www.boardgamegeek.com/boardgame/58253) | 2 - 6 | 10 |
+| [Bali](https://www.boardgamegeek.com/boardgame/2553) | 1 - 4 | 30 |
+| [Bananagrams](https://www.boardgamegeek.com/boardgame/27225) | 1 - 8 | 15 |
+| [Bingo](https://www.boardgamegeek.com/boardgame/7316) | 2 - 99 | 60 |
+| [Boggle](https://www.boardgamegeek.com/boardgame/1293) | 1 - 8 | 10 |
+| [Dizzy Spell](https://www.boardgamegeek.com/boardgame/11852) | 2 | 15 |
+| [Last Word](https://www.boardgamegeek.com/boardgame/1960) | 2 - 4 | 90 |
+| [Speed Scrabble](https://www.boardgamegeek.com/boardgame/null) |  |  |
 
 ## Playing Cards
 
-TODO
+| Game | # of Players | Playtime |
+|------|--------------|----------|
+| [Bridge](https://www.boardgamegeek.com/boardgame/2181) | 4 | 60 |
+| [Canasta](https://www.boardgamegeek.com/boardgame/17104) | 2 - 6 | 45 |
+| [Cribbage](https://www.boardgamegeek.com/boardgame/2398) | 2 - 4 | 30 |
+| [Eleusis](https://www.boardgamegeek.com/boardgame/5217) | 4 - 8 | 20 |
+| [Euhre](https://www.boardgamegeek.com/boardgame/6901) | 2 - 7 | 45 |
+| [Go Fish](https://www.boardgamegeek.com/boardgame/7682) | 2 - 6 | 20 |
+| [Hand and Foot](https://www.boardgamegeek.com/boardgame/7475) | 2 - 6 | 120 |
+| [Hearts](https://www.boardgamegeek.com/boardgame/6887) | 3 - 7 | 30 |
+| [Mao](https://www.boardgamegeek.com/boardgame/4213) | 3 - 20 | 60 |
+| [Old Maid](https://www.boardgamegeek.com/boardgame/10799) | 2 - 6 | 5 |
+| [Uno](https://www.boardgamegeek.com/boardgame/2223) | 2 - 10 | 30 |
+
