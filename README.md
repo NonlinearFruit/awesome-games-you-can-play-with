@@ -52,6 +52,7 @@ These are awesome games you can play with various common items
 | [Boggle](https://www.boardgamegeek.com/boardgame/1293) | 1 - 8 | 10 | Dice,Real-time,Word Game,Dice Rolling,Paper-and-Pencil,Pattern Recognition |
 | [Dizzy Spell](https://www.boardgamegeek.com/boardgame/11852) | 2 | 15 | Word Game,Pattern Recognition |
 | [Last Word](https://www.boardgamegeek.com/boardgame/1960) | 2 - 4 | 90 | Word Game |
+| [Letter Jam](https://www.boardgamegeek.com/boardgame/275467) | 2 - 6 | 45 | Card Game,Deduction,Party Game,Word Game,Communication Limits,Cooperative Game |
 | [Speed Scrabble](https://www.boardgamegeek.com/boardgame/null) |  |  |  |
 
 ## Playing Cards
